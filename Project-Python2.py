@@ -12,7 +12,7 @@ def random_text():
 
 # some variables
 random_text()
-active_hosts = []
+active_hosts = [] #array for all the active hodes
 socket.setdefaulttimeout(0.25)
 
 # ip dingetjes
